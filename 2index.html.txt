@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<title><h1>MY SKILLS</h1></title>
+	</head>
+	<body>
+		<h1>MY SKILLS</h1>
+		<ul>
+			<li>html</li><br>
+				<p>i have a knowlwdge on html and i can also create the webpages using html</p>
+			<li>c</li><br>
+				<p>i have the basic knowledge abt the c language</p>
+			<li>data structures</li><br>
+				<p>i have basic knowledge on data structure too</p>
+		</ul>
+	</body>

@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<title>MY CONTACT DETAILS</title>
+	</head>
+	<BODY>
+		<H3>MY CONTACT DETAILS</H3>
+		<OL>
+			<LI><H3>MY MAIL I'D</H3></LI>
+			 <p>jeevankumar9036@gmail.com</p>
+			 <li><h3>MY PHONE NUMBER</h3></li>
+			 <P>CONTACT:<br>
+			 	<H5>JEEVAN KUMAR</H5>
+			 +91-9000000088</P>
+</OL>
+</BODY>
+</html>
